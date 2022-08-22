@@ -1,3 +1,18 @@
+*{
+  background-color: black;
+  color: white;
+}
+
+button{
+  background-color: rgb(193, 193, 193);
+  color: rgb(0, 47, 122);
+}
+
+button:hover{
+  background-color: rgb(1, 157, 79);
+  color: rgb(0, 47, 122);
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',

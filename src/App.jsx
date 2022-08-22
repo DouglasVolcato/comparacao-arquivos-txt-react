@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import Header from "./Header";
 import Body1 from "./Body1";
 import Body2 from "./Body2";
-// import compareButton from "./compareButton";
 
 export default class App extends Component {
   state = {
@@ -30,7 +29,7 @@ export default class App extends Component {
           <div
             style={{
               margin: "20px",
-              border: "2px solid black",
+              border: "2px solid gray",
               minWidth: "40vw",
               minHeight: "20vw",
               padding: "10px",
@@ -45,7 +44,7 @@ export default class App extends Component {
           <div
             style={{
               margin: "20px",
-              border: "2px solid black",
+              border: "2px solid gray",
               minWidth: "40vw",
               minHeight: "20vw",
               padding: "10px",
